@@ -1,0 +1,2 @@
+dronekit
+pyserial
